@@ -1,8 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/Common/s2dotty/src/P4.scala:3:12: class MyClass needs to be abstract.[0m
-[0m[[0m[31merror[0m] [0m[0mMissing implementations for 3 members. Stub implementations follow:[0m
-[0m[[0m[31merror[0m] [0m[0m  def _1: Int = ???[0m
-[0m[[0m[31merror[0m] [0m[0m  def _2: Int = ???[0m
-[0m[[0m[31merror[0m] [0m[0m  def _3: Int = ???[0m
-[0m[[0m[31merror[0m] [0m[0mcase class MyClass(v1: Int, v2: Int, v3: Int) extends Product3[Int, Int, Int][0m
-[0m[[0m[31merror[0m] [0m[0m           ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
