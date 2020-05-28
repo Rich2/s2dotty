@@ -1,9 +1,0 @@
-s2/compile
-reload
-s2/compile
-reload
-s2/compile
-exit
-dot/compile
-s2/compile
-exit
